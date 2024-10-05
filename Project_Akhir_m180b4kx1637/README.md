@@ -16,4 +16,11 @@ streamlit run app.py
 
 # **Dashboard Access Instructions** 
 
-You can simply visit my dashboard via link. You can access the link please open the "url.txt". Thank you.
+# unfortunately it seems that i can't deploy my app yet due to technical issue 
+
+```cmd prompt 
+streamlit run https://github.com/gloricrstyy/dashboard_bike/blob/main/Project_Akhir_m180b4kx1637/Dashboard/app.py
+```
+
+
+
